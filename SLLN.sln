@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SLLN", "SLLN\SLLN.pyproj", "{FA68B183-4436-4ABE-9AC5-84EC83A4DBA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA68B183-4436-4ABE-9AC5-84EC83A4DBA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA68B183-4436-4ABE-9AC5-84EC83A4DBA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FA4C77A-0633-4CA6-A8D7-FC40006D15B2}
+	EndGlobalSection
+EndGlobal
